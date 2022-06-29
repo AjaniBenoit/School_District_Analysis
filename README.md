@@ -32,3 +32,6 @@ Original
 Updated
 ![Updated_school_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Updated_school_summary.png)
 
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s Performance relative to the other schools?
+
+In the original analysis, schools were sorted into the top performing schools based on the percent of overall passing student. In the initial analysis, Thomas High School was ranked second after Cabrera High School. In the updated analysis, Thomas High School ranked in the eighth spot after Holden High School.
