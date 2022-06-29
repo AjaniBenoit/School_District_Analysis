@@ -55,4 +55,4 @@ In both the initial analysis and the updated analysis Thomas High School spent $
 
 #### Scores by school size
 
-Thomas High School was categorized as a medium with a total student population falling in the range of 1000 to 1999 students. In the original analysis the percentage overall pass was 90.62. The percentage overall pass decreased in the updated analysis to 90.56
+Thomas High School was categorized as a medium with a total student population falling in the range of 1000 to 1999 students. In the original analysis the percentage overall pass was 90.62. The percentage overall pass decreased in the updated analysis to 90.56.
