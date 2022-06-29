@@ -16,10 +16,9 @@ The purpose of this report is to provide a summary of the performance of schools
 The testing data in math and reading was converted into a NaN (Not a number) value from 9th graders from Thomas High School and omitted from the calculation percentage of students that passed math, reading and the overall pass rate 
 
 Original
-![Original_district_summary]()
+![Original_district_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Original_district_summary.png)
 
 Updated
-![Updated_district_summary]()
+![Updated_district_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Updated_district_summary.png)
 
 The schools, students and budget remained the same, but the average math score, average reading score percent passing math, percent passing reading and percent overall passing decreased by less than one percent. 
-![image](https://user-images.githubusercontent.com/106286515/176349105-de09bef1-0add-40ff-b69d-62522fb4982b.png)
