@@ -22,3 +22,11 @@ Updated
 ![Updated_district_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Updated_district_summary.png)
 
 The schools, students and budget remained the same, but the average math score, average reading score percent passing math, percent passing reading and percent overall passing decreased by less than one percent. 
+
+### How is the School Summary Affected?
+In the original analysis Thomas High School had 93.27% pass math, 97.31% passing reading with 90.95% overall passing. In the updated analysis the 9th graders were removed. The percentage passing math, reading and overall passing decreased. 
+Original 
+![Original_school_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Original_school_summary.png)
+Updated
+![Updated_school_summary](https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Updated_school_summary.png)
+
