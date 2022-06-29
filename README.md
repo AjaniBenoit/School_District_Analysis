@@ -40,8 +40,11 @@ In the original analysis, schools were sorted into the top performing schools ba
 
 #### Math and reading scores by grade 
 In the original analysis, the 9th graders at Thomas High School had an average reading score of 83.73  and an average math score of 83.59. In the updated analysis the 9th graders  math and reading scores at Thomas High School was replaced by a NaN variable. 
+
 Math Score
+
 ![Math_score_grade]( https://github.com/AjaniBenoit/School_District_Analysis/blob/main/Math_score_grade..png)
 
 Reading Score 
+
 ![reading_score_grade]( https://github.com/AjaniBenoit/School_District_Analysis/blob/main/reading_score_grade.png)
