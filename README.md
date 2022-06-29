@@ -61,4 +61,12 @@ Thomas High School was categorized as a medium with a total student population f
 
 Thomas High School was classified as a Charter Schools. Charter schools saw a nominal decrease less than one percent in percent passing math, percent passing reading and percent overall passing. The Charter schools performed better overall in each category. 
 
+### Summary four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
+ 
+The percent passing reading, math and overall pass rate decreased from 97.31, 93.27 and 90.95 to 69.66, 66.91 and 65.08 respectively. 
 
+The rank of Thomas High School dropped the second place to eight place after the 9th  graders scores were replaced with NaN.
+
+Nominal decreases decrease of less than 1  in scores by school type and scores by school type 
+
+In the analysis of math and readding scores by grade, the 9th graders at Thomas High School grades were replaced with NaN.
