@@ -48,3 +48,9 @@ Math Score
 Reading Score 
 
 ![reading_score_grade]( https://github.com/AjaniBenoit/School_District_Analysis/blob/main/reading_score_grade.png)
+
+#### Scores by school spending
+ 
+In both the initial analysis and the updated analysis Thomas High School spent $631-645 per student. This number did not change after omitting the 9th graders score. 
+
+
